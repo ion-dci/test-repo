@@ -2,31 +2,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Single+Day&display=swap" rel="stylesheet">
 
-<style>
-* {
-    font-family: 'Anonymous Pro', monospace;
-    font-size: 14px;
-    letter-spacing: 0.px;
-    @import url('https://fonts.googleapis.com/css2?family=Single+Day&display=swap');
-}
-h1 {
-    font-family: 'Single Day', cursive;
-    text-transform: uppercase;
-    letter-spacing: 1.5px;
-    // text-decoration-line: underline; //
-    text-decoration-style: wavy;
-    text-decoration-color: #FF9D00; 
-    text-decoration-thickness: 2px;
-}
-a {
-    color: #074EE8;
-}
-u {
-    text-decoration-style: wavy;
-    text-decoration-color: #074EE8; 
-    text-decoration-thickness: 2px;
-}
-</style>
+
 👉 [internet-basics](#🌐-internet-basics) 〰️ [url-components](#🔗-components-of-the-url) 〰️ [protocols](#📄-http-and-https) 〰️ [ip-adresses](#🖥️-ip-adresses) 〰️ [dns](#📖-dns) 〰️ [mark-down](#📃-mark-down) 〰️ [local-remote-repos]()
 # 🌐 Internet Basics 
 ![pic](education.jpeg)
@@ -134,7 +110,31 @@ to <u>commit into a remote repo</u> we gotta:
 
 
 
-
+<style>
+* {
+    font-family: 'Anonymous Pro', monospace;
+    font-size: 14px;
+    letter-spacing: 0.px;
+    @import url('https://fonts.googleapis.com/css2?family=Single+Day&display=swap');
+}
+h1 {
+    font-family: 'Single Day', cursive;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    // text-decoration-line: underline; //
+    text-decoration-style: wavy;
+    text-decoration-color: #FF9D00; 
+    text-decoration-thickness: 2px;
+}
+a {
+    color: #074EE8;
+}
+u {
+    text-decoration-style: wavy;
+    text-decoration-color: #074EE8; 
+    text-decoration-thickness: 2px;
+}
+</style>
 
 
 
